@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: "CS373 Fall 2015: Chuchu Ma"
+name: "Chuchu Ma"
 
 # Short bio or description (displayed in the header)
-description: Computer Science Student at UT Austin
+description: Software Engineer at Google
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/pikachuchu/pikachuchu.github.io/master/images/profile-pic.jpg
@@ -18,12 +18,12 @@ avatar: https://raw.githubusercontent.com/pikachuchu/pikachuchu.github.io/master
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: chuchu.ma@utexas.edu
+  email: me@chuchu.ma
   facebook:
   flickr:
   github: pikachuchu
   instagram:
-  linkedin:
+  linkedin: chuchu-ma-55491a93
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter:
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: http://pikachuchu.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)

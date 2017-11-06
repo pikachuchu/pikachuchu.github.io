@@ -6,4 +6,5 @@ permalink: /about/
 
 ### Contact me
 
-[chuchu.ma@utexas.edu](mailto:chuchu.ma@utexas.edu)
+[me@chuchu.ma](mailto:me@chuchu.ma)
+[LinkedIn](https://www.linkedin.com/in/chuchu-ma-55491a93/)
